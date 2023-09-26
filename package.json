@@ -1,0 +1,22 @@
+{
+  "name": "fcalculs",
+  "version": "1.0.0",
+  "description": "Calculation of financial ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HendaSoft/Fcalculations.git"
+  },
+  "keywords": [
+    "HendaSoft"
+  ],
+  "author": "HendaSoft,LDA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HendaSoft/Fcalculations/issues"
+  },
+  "homepage": "https://github.com/HendaSoft/Fcalculations#readme"
+}
